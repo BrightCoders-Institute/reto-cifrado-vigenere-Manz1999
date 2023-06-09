@@ -2,16 +2,35 @@
 
 # Cifrado de Vigenere
 
-> [Ver instrucciones antes de iniciar](./instructions.md)
+> [Read Instructions](./instructions.md)
 
-This README would normally document whatever steps are necessary to get the application up and running.
+## Table of contents
+  - [Description](#Description)
+  - [How to Run the Project](#How-to-Run-the-Project)
+  - [How to Use the Project](#How-to-Use-the-Project)
+  - [Credits](#Credits)
 
-Things you may want to cover:
+## Description. 
+This repository contains a program that implements the Vigenere cipher algorithm for encrypting messages.
 
-- Title or Project Name
-- Table of contents
-- Description. A brief description of what the project is about
-- How to Install and Run the Project.
-- How to Use the Project.
-- Credits
-- Badges
+## How to Run the Project
+
+```
+ruby vigenere_cipher.rb
+```
+
+## How to Use the Project
+### Use Rubocop
+
+```
+rubocop <vigenere_cipher.rb>.rb
+```
+
+### Use rspec (for test)
+
+```
+rspec
+```
+
+## Credits
+- [@Manz1999](https://github.com/Manz1999)

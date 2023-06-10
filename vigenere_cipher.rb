@@ -1,5 +1,4 @@
-# This class implements the Vigenere cipher algorithm for encrypting messages.
-
+# This class implements the Vigenere cipher algorithm for encrypting messages...
 class VigenereCipher
   def initialize(key)
     @key = key.upcase
